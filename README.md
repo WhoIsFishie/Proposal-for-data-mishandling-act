@@ -5,7 +5,7 @@ This repository is dedicated to drafting a comprehensive proposal for data misha
 
 We welcome your active participation in shaping this data mishandling bill. Here are some ways you can get involved:
 
-1. **Discuss Issues:** Start by exploring the [Issues](https://github.com/WhoIsFishie/Proposal-for-data-mishandling-act/issues) section. Engage in discussions, share your insights, and provide feedback on existing topics. Your input is invaluable for refining the porposal.
+1. **Discuss Issues:** Start by exploring the [Issues](https://github.com/WhoIsFishie/Proposal-for-data-mishandling-act/issues) section. Engage in discussions, share your insights, and provide feedback on existing topics. Your input is invaluable for refining the proposal.
 
 2. **Submit New Issues:** If you have concerns, ideas, or suggestions that are not already covered in the existing issues, feel free to create a new issue. Please use clear and descriptive titles to help others understand the topic of discussion.
 
@@ -26,7 +26,7 @@ We look forward to your involvement in this vital project.
 
 ## The Importance of the Data Mishandling Bill
 
-In an era where personal data is a cornerstone of our daily lives and maldivian devs are creating more apps the need for comprehensive data protection legislation cannot be overstated. The data mishandling bill is a critical initiative for several reasons:
+In an era where personal data is a cornerstone of our daily lives and Maldivian devs are creating more apps the need for comprehensive data protection legislation cannot be overstated. The data mishandling bill is a critical initiative for several reasons:
 
 1. **Preservation of Privacy:** In an interconnected world, individuals deserve the assurance that their personal information is safeguarded, and their privacy respected. This bill is essential in preserving these fundamental rights.
 
