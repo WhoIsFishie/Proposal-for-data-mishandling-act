@@ -36,6 +36,7 @@ We call upon the People’s Majlis to:
 3. **Mandatory Breach Disclosure:** Require all entities to notify the DPA and affected individuals within 72 hours of a data breach.
 4. **Enforce Harsh Penalties:** Implement significant fines for organizations that mishandle data or operate without adequate cybersecurity protocols.
 5. **Regulate AI Data Usage:** Mandate that consent for AI training must be a separate, clear, and verbose agreement, not hidden in a standard TOS.
+6. Prioritize the passing of the Personal Data Protection Act ASAP
 
 ### VI. Conclusion
 
