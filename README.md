@@ -5,6 +5,8 @@ This repository is dedicated to drafting a comprehensive proposal for data misha
 
 We welcome your active participation in shaping this data mishandling bill. Here are some ways you can get involved:
 
+0. **Peer Review:** read the [existing draft](https://github.com/WhoIsFishie/Proposal-for-data-mishandling-act/blob/main/English-Draft.md) and comment on it.
+
 1. **Discuss Issues:** Start by exploring the [Issues](https://github.com/WhoIsFishie/Proposal-for-data-mishandling-act/issues) section. Engage in discussions, share your insights, and provide feedback on existing topics. Your input is invaluable for refining the proposal.
 
 2. **Submit New Issues:** If you have concerns, ideas, or suggestions that are not already covered in the existing issues, feel free to create a new issue. Please use clear and descriptive titles to help others understand the topic of discussion.
